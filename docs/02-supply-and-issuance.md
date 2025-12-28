@@ -6,6 +6,7 @@ QZN has a fixed and immutable maximum supply.
 - Minting: One-time genesis mint
 - Inflation: None
 - Reissuance: None
+- Price: 250 QUBIC
 
 All QZN entering circulation originates from genesis allocations and recycled ecosystem activity. No additional tokens may be created under any circumstances.
 
